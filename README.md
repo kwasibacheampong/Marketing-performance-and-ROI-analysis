@@ -51,6 +51,12 @@ Attribution assumptions are clearly stated to keep the analysis transparent and 
 
 The emphasis is on **decision relevance**, not metric overload.
 
+## Insight snapshot
+
+![Insight snapshot](visuals/insight_snapshot.png)
+
+*Snapshot showing ROI by channel to support budget allocation and campaign optimisation decisions.*
+
 ## Key insights
 - Higher spend does not necessarily lead to better performance
 - Some lower-cost channels deliver stronger ROI
