@@ -57,6 +57,10 @@ The emphasis is on **decision relevance**, not metric overload.
 
 *Snapshot showing ROI by channel to support budget allocation and campaign optimisation decisions.*
 
+## Executive summary artefact
+Executive-level decision briefs translating analysis into stakeholder-ready outputs.
+- [View executive summary (PDF)](executive-summary/marketing_performance_roi_executive_summary.pdf.pdf)
+  
 ## Key insights
 - Higher spend does not necessarily lead to better performance
 - Some lower-cost channels deliver stronger ROI
