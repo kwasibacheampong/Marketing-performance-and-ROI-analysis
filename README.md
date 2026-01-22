@@ -44,6 +44,12 @@ The emphasis is on **decision relevance**, not metric overload.
 - Reallocate budget towards consistently high-ROI channels
 - Review or pause underperforming campaigns
 - Shift reporting focus from vanity metrics to commercial outcomes
+- 
+## Skills demonstrated
+- Business analysis and decision framing
+- Data analysis using Python and SQL
+- Commercial performance evaluation
+- Stakeholder-focused insight communication
 
 ## Tools used
 - SQL and Python for analysis
