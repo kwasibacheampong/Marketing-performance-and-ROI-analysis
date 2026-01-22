@@ -9,6 +9,17 @@ This project evaluates marketing performance across multiple channels to support
 
 The focus is on identifying which activities contribute most effectively to business outcomes rather than surface-level engagement metrics.
 
+## Starter project narrative
+
+### Context
+A business is investing across multiple digital marketing channels, but leadership lacks clarity on which activities are driving meaningful commercial outcomes. Reporting focuses heavily on engagement metrics, making it difficult to justify spend or confidently reallocate budget.
+
+### Decision
+Marketing leadership needs to decide how to optimise budget allocation across channels and campaigns in order to improve return on investment while maintaining performance.
+
+### Outcome
+This analysis provides a clear, ROI-focused view of marketing performance, highlighting which channels and campaigns contribute most effectively to business outcomes. The insights support data-informed budget reallocation and a shift towards commercially relevant performance measurement.
+
 ## Business context
 Marketing teams often face pressure to justify spend while managing multiple channels and campaigns.
 
