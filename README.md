@@ -1,48 +1,53 @@
-# Business Architecture & Decision Intelligence
+# Marketing Performance & ROI Analysis
 
 ## Overview
-This project explores how business architecture and decision intelligence frameworks can be used to improve how organisations structure, evaluate, and act on decisions.
+This project evaluates marketing performance across multiple channels to support ROI-driven budget and campaign decisions.
 
-Rather than focusing on isolated analysis, the work looks at how data, processes, stakeholders, and objectives connect across the business to support more consistent and transparent decision-making.
+The focus is on identifying which activities contribute most effectively to business outcomes rather than surface-level engagement metrics.
 
 ## Business context
-Organisations often struggle not because they lack data, but because decisions are made in silos without a shared understanding of objectives, dependencies, or trade-offs.
+Marketing teams often face pressure to justify spend while managing multiple channels and campaigns.
 
-This project reflects a scenario where leadership teams want to:
-- Improve decision quality
-- Align operational decisions with strategic goals
-- Reduce friction between commercial, marketing, and client-facing teams
+This project reflects a scenario where leadership wants to:
+- Understand ROI by channel
+- Identify inefficient spend
+- Improve future budget allocation
 
-## Key business questions
-- How can decisions be structured so they are repeatable, explainable, and aligned to business objectives?
-- Where do data and insights add the most value within decision flows?
-- How can decision-making be supported across marketing, client service, and account management functions?
+## Key business question
+Which marketing channels and campaigns deliver meaningful business value, and how should budget be reallocated to improve overall performance?
+
+## Data & assumptions
+The analysis uses campaign-level data including:
+- Spend
+- Conversions or leads
+- Revenue or revenue proxies
+
+Attribution assumptions are clearly stated to keep the analysis transparent and realistic.
 
 ## Analytical approach
-The project applies business architecture and decision intelligence concepts to:
-- Map decision contexts and stakeholders
-- Identify decision inputs, constraints, and outcomes
-- Clarify where data and analytics should inform judgment rather than replace it
+- Aggregate performance by channel and campaign
+- Compare spend against revenue contribution
+- Evaluate efficiency using ROI and cost-based metrics
 
-The emphasis is on **decision design**, not automation.
+The emphasis is on **decision relevance**, not metric overload.
 
 ## Key insights
-- Poor decisions are often the result of unclear ownership and misaligned objectives rather than lack of data
-- Explicitly defining decision criteria improves consistency across teams
-- Data is most valuable when embedded into decision processes, not presented as standalone reports
+- Higher spend does not necessarily lead to better performance
+- Some lower-cost channels deliver stronger ROI
+- Performance varies significantly across campaigns within the same channel
 
-## Practical outcomes
-- Clearer linkage between strategy and day-to-day decisions
-- Improved alignment between marketing, client service, and account teams
-- A repeatable way to assess where analytics can genuinely improve decision-making
+## Recommended actions
+- Reallocate budget towards consistently high-ROI channels
+- Review or pause underperforming campaigns
+- Shift reporting focus from vanity metrics to commercial outcomes
 
-## Tools & concepts
-- Business architecture principles
-- Decision intelligence frameworks
-- Analytical reasoning and stakeholder alignment
+## Tools used
+- SQL and Python for analysis
+- Data visualisation for insight communication
+- Business-focused KPI selection
 
 ## Limitations & next steps
-This project is conceptual by design. Future work could extend this into:
-- Quantitative decision models
-- Scenario analysis
-- Tool-supported decision dashboards
+Future enhancements could include:
+- Time-based trend analysis
+- Multi-touch attribution modelling
+- Integration with customer lifetime value
