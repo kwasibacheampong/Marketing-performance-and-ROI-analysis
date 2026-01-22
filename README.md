@@ -5,7 +5,7 @@
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
 ## Overview
-This project evaluates marketing performance across multiple channels to support ROI-driven budget and campaign decisions.
+This project evaluates marketing performance across multiple channels to support ROI-driven budget and campaign decisions. The project demonstrates marketing analytics and ROI analysis skills to support campaign performance evaluation and budget optimisation.
 
 The focus is on identifying which activities contribute most effectively to business outcomes rather than surface-level engagement metrics.
 
