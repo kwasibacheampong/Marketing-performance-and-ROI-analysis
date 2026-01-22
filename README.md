@@ -4,6 +4,11 @@
 ![Python](https://img.shields.io/badge/Python-Analysis-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Querying-lightgrey)
 
+## How to navigate this repository
+- The README provides the business context, approach, insights, and recommendations
+- The analysis folder contains the supporting notebooks or scripts
+- The visuals folder includes stakeholder-facing snapshots used to support decisions
+
 ## Overview
 This project evaluates marketing performance across multiple channels to support ROI-driven budget and campaign decisions. The project demonstrates marketing analytics and ROI analysis skills to support campaign performance evaluation and budget optimisation.
 
